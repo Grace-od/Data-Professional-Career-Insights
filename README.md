@@ -13,7 +13,7 @@ This Power BI project provides a detailed breakdown of survey results from 630 d
 
 ## 🛠️ Technical Implementation
 * **Advanced DAX:** Implemented complex calculations to drive the dashboard's metrics and gauge visuals.
-* **Data Transformation:** Cleaned and structured the "Power BI - Final Project.xlsx" dataset for accurate reporting.
+* **Data Transformation:** Cleaned and structured the "Power BI - Mini Dashboard Project.xlsx" dataset for accurate reporting.
 * **Interactive Design:** Created a summary report featuring bar charts, donut charts, and treemaps for intuitive user navigation.
 
 ## 📂 Project Structure
